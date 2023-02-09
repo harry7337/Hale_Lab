@@ -1,0 +1,265 @@
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "agg_to_water": true,
+  "mode": "train",
+  "epochs": 45,
+  "batch": 5,
+  "resume_from_epoch": 0,
+  "input_channels": 11,
+  "output_channels": 11,
+  "hidden_channels": 16,
+  "weight_param": 1.03,
+  "lr": 0.0002,
+  "decay": 0,
+  "reduce_lr_on_plateau": 0,
+  "lr_steps": [
+    40
+  ],
+  "checkpoint_path": "/Users/hgumnur/Documents/marida-dataset/semantic_segmentation/unet/trained_models",
+  "eval_every": 1,
+  "num_workers": 1,
+  "pin_memory": false,
+  "prefetch_factor": 1,
+  "persistent_workers": true,
+  "tensorboard": "tsboard_segm"
+}
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "agg_to_water": true,
+  "mode": "train",
+  "epochs": 45,
+  "batch": 5,
+  "resume_from_epoch": 0,
+  "input_channels": 11,
+  "output_channels": 11,
+  "hidden_channels": 16,
+  "weight_param": 1.03,
+  "lr": 0.0002,
+  "decay": 0,
+  "reduce_lr_on_plateau": 0,
+  "lr_steps": [
+    40
+  ],
+  "checkpoint_path": "/Users/hgumnur/Documents/marida-dataset/semantic_segmentation/unet/trained_models",
+  "eval_every": 1,
+  "num_workers": 1,
+  "pin_memory": false,
+  "prefetch_factor": 1,
+  "persistent_workers": true,
+  "tensorboard": "tsboard_segm"
+}
+root - INFO - **********
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "agg_to_water": true,
+  "mode": "train",
+  "epochs": 45,
+  "batch": 5,
+  "resume_from_epoch": 0,
+  "input_channels": 11,
+  "output_channels": 11,
+  "hidden_channels": 16,
+  "weight_param": 1.03,
+  "lr": 0.0002,
+  "decay": 0,
+  "reduce_lr_on_plateau": 0,
+  "lr_steps": [
+    40
+  ],
+  "checkpoint_path": "/Users/hgumnur/Documents/marida-dataset/semantic_segmentation/unet/trained_models",
+  "eval_every": 1,
+  "num_workers": 1,
+  "pin_memory": false,
+  "prefetch_factor": 1,
+  "persistent_workers": true,
+  "tensorboard": "tsboard_segm"
+}
+root - INFO - **********
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "agg_to_water": true,
+  "mode": "train",
+  "epochs": 45,
+  "batch": 5,
+  "resume_from_epoch": 0,
+  "input_channels": 11,
+  "output_channels": 11,
+  "hidden_channels": 16,
+  "weight_param": 1.03,
+  "lr": 0.0002,
+  "decay": 0,
+  "reduce_lr_on_plateau": 0,
+  "lr_steps": [
+    40
+  ],
+  "checkpoint_path": "/Users/hgumnur/Documents/marida-dataset/semantic_segmentation/unet/trained_models",
+  "eval_every": 1,
+  "num_workers": 1,
+  "pin_memory": false,
+  "prefetch_factor": 1,
+  "persistent_workers": true,
+  "tensorboard": "tsboard_segm"
+}
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "agg_to_water": true,
+  "mode": "train",
+  "epochs": 45,
+  "batch": 5,
+  "resume_from_epoch": 0,
+  "input_channels": 11,
+  "output_channels": 11,
+  "hidden_channels": 16,
+  "weight_param": 1.03,
+  "lr": 0.0002,
+  "decay": 0,
+  "reduce_lr_on_plateau": 0,
+  "lr_steps": [
+    40
+  ],
+  "checkpoint_path": "/Users/hgumnur/Documents/marida-dataset/semantic_segmentation/unet/trained_models",
+  "eval_every": 1,
+  "num_workers": 1,
+  "pin_memory": false,
+  "prefetch_factor": 1,
+  "persistent_workers": true,
+  "tensorboard": "tsboard_segm"
+}
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "agg_to_water": true,
+  "mode": "train",
+  "epochs": 45,
+  "batch": 5,
+  "resume_from_epoch": 0,
+  "input_channels": 11,
+  "output_channels": 11,
+  "hidden_channels": 16,
+  "weight_param": 1.03,
+  "lr": 0.0002,
+  "decay": 0,
+  "reduce_lr_on_plateau": 0,
+  "lr_steps": [
+    40
+  ],
+  "checkpoint_path": "/Users/hgumnur/Documents/marida-dataset/semantic_segmentation/unet/trained_models",
+  "eval_every": 1,
+  "num_workers": 1,
+  "pin_memory": false,
+  "prefetch_factor": 1,
+  "persistent_workers": true,
+  "tensorboard": "tsboard_segm"
+}
+root - INFO - **********
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "agg_to_water": true,
+  "mode": "train",
+  "epochs": 45,
+  "batch": 5,
+  "resume_from_epoch": 0,
+  "input_channels": 11,
+  "output_channels": 11,
+  "hidden_channels": 16,
+  "weight_param": 1.03,
+  "lr": 0.0002,
+  "decay": 0,
+  "reduce_lr_on_plateau": 0,
+  "lr_steps": [
+    40
+  ],
+  "checkpoint_path": "/Users/hgumnur/Documents/marida-dataset/semantic_segmentation/unet/trained_models",
+  "eval_every": 1,
+  "num_workers": 1,
+  "pin_memory": false,
+  "prefetch_factor": 1,
+  "persistent_workers": true,
+  "tensorboard": "tsboard_segm"
+}
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "agg_to_water": true,
+  "mode": "train",
+  "epochs": 45,
+  "batch": 5,
+  "resume_from_epoch": 0,
+  "input_channels": 11,
+  "output_channels": 11,
+  "hidden_channels": 16,
+  "weight_param": 1.03,
+  "lr": 0.0002,
+  "decay": 0,
+  "reduce_lr_on_plateau": 0,
+  "lr_steps": [
+    40
+  ],
+  "checkpoint_path": "/Users/hgumnur/Documents/marida-dataset/semantic_segmentation/unet/trained_models",
+  "eval_every": 1,
+  "num_workers": 1,
+  "pin_memory": false,
+  "prefetch_factor": 1,
+  "persistent_workers": true,
+  "tensorboard": "tsboard_segm"
+}
+root - INFO - **********
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "agg_to_water": true,
+  "mode": "train",
+  "epochs": 45,
+  "batch": 5,
+  "resume_from_epoch": 0,
+  "input_channels": 11,
+  "output_channels": 11,
+  "hidden_channels": 16,
+  "weight_param": 1.03,
+  "lr": 0.0002,
+  "decay": 0,
+  "reduce_lr_on_plateau": 0,
+  "lr_steps": [
+    40
+  ],
+  "checkpoint_path": "/Users/hgumnur/Documents/marida-dataset/semantic_segmentation/unet/trained_models",
+  "eval_every": 1,
+  "num_workers": 1,
+  "pin_memory": false,
+  "prefetch_factor": 1,
+  "persistent_workers": true,
+  "tensorboard": "tsboard_segm"
+}
+root - INFO - **********
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "agg_to_water": true,
+  "mode": "train",
+  "epochs": 45,
+  "batch": 5,
+  "resume_from_epoch": 0,
+  "input_channels": 11,
+  "output_channels": 11,
+  "hidden_channels": 16,
+  "weight_param": 1.03,
+  "lr": 0.0002,
+  "decay": 0,
+  "reduce_lr_on_plateau": 0,
+  "lr_steps": [
+    40
+  ],
+  "checkpoint_path": "/Users/hgumnur/Documents/marida-dataset/semantic_segmentation/trained_models",
+  "eval_every": 1,
+  "num_workers": 1,
+  "pin_memory": false,
+  "prefetch_factor": 1,
+  "persistent_workers": true,
+  "tensorboard": "tsboard_segm"
+}
